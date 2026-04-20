@@ -1,14 +1,3 @@
-// Function that takes string as input and returns the string reversed
-/* function ReverseString(str){
-    return str.split("").reverse().join("");
-}
-
-let userInput = prompt("Enter a word: ");
-let word = ReverseString(userInput);
-
-console.log(word);
-console.log("The reversed string is " + word);
-*/ 
 
 // A function that returns total number of vowels in the string
  function countVowel(str){
